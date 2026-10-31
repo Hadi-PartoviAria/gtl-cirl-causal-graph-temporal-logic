@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.png
+*.pdf
+*.pkl
+*.xlsx
+results*/
